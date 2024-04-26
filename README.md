@@ -1,5 +1,5 @@
 ## Olá! Me chamo Derik Oliveira 👋
-Desenvolvedor Full Stack & Técnico em informática de Minas Gerais. Atualmente participo do [Bootcamp Santader 2024](https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2024) em parceria com a [DIO](https://www.dio.me/), onde estou melhorando as minhas habilidades e descobrindo novas tecnologias e participando de várias networks e participando de novos desafios. 
+Desenvolvedor Full Stack & Técnico em informática de Minas Gerais. Atualmente participo do [Bootcamp Santader 2024](https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2024) em parceria com a [DIO](https://www.dio.me/), com duração de 3 Mêses onde estou melhorando as minhas habilidades e descobrindo novas tecnologias e participando de várias networks e participando de novos desafios. 
 
 Gosto de tudo que envolve tecnologia e inovações, curto assistir uns animes, séries e filmes e jogar com os amigos no final de semana.
  
