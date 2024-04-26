@@ -1,5 +1,5 @@
 ## Olá! Me chamo Derik Oliveira 👋
-Desenvolvedor Full Stack & Técnico em informática de Minas Gerais. Atualmente participo do [Bootcamp Santader 2024](https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2024) em parceria com a [DIO](https://www.dio.me/), com duração de 3 Mêses onde estou melhorando as minhas habilidades e descobrindo novas tecnologias e participando de várias networks e participando de novos desafios. 
+Desenvolvedor Full Stack & Técnico em informática de Minas Gerais. Atualmente participo do [Bootcamp Santader 2024](https://app.santanderopenacademy.com/pt-BR/program/santander-bootcamp-2024) em parceria com a [DIO](https://www.dio.me/), com duração de 3 Mêses onde estou melhorando as minhas habilidades e descobrindo novas tecnologias e participando de várias networks e projetos e atividades. 
 
 Gosto de tudo que envolve tecnologia e inovações, curto assistir uns animes, séries e filmes e jogar com os amigos no final de semana.
  
@@ -13,7 +13,8 @@ Irei postar vários projetos Open Sourcer aqui no meu GitHub, fique ligado 😉
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@derikincode/)&nbsp;
 
 #### GitHub Stats
-<div  align="center" style="margin-bottom:100px">
+
+<div  align="center" style="margin-bottom:100px"> 
 <img width=40% align="left" src="https://github-readme-stats.vercel.app/api?username=derikincode&show_icons=true&theme=tokyonight" />
 <img width=35% align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derikincode&layout=compact&show_icons=true&theme=tokyonight" />
 </div>
