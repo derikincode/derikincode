@@ -2,12 +2,6 @@
 
 <img src="https://github.com/derikincode/derik-dev/assets/85948745/d401d091-7d97-431b-a015-6421fb99e071" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador derikincode">
 
-### About me
-- 🤔 Explore new technologies and develop software solutions.
-- 📚 I'm currently specializing in Java ☕.
-- 🚀 Participating in Bootcamp Santander 2024.
-- 🎓 Graduating in IT Technician 2024.
-
 ### Connect with me
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/derikincode/)&nbsp;
